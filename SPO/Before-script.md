@@ -1,4 +1,4 @@
-# Avant d'exécuter le script SPO-Versionning.ps1, installez le module PnP.PowerShell et connectez-vous au site : https://tenant-admin.sharepoint.com
+#Avant d'exécuter le script SPO-Versionning.ps1, installez le module PnP.PowerShell et connectez-vous au site : https://tenant-admin.sharepoint.com
 
 # Remplacer tenant par le nom de votre tenant
 
