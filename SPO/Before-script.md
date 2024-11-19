@@ -12,7 +12,7 @@ Avant d'exécuter le script `SPO-Versionning.ps1`, vous devez :
     Import-Module PnP.PowerShell
     ```
 
-3. **Se connecter au site SharePoint** à l'URL suivante :
+3. **Se connecter au site SharePoint** à l'URL suivante ( en remplaçant tenant or le nom de votre tenat ):
     ```
     https://tenant-admin.sharepoint.com
     ```
