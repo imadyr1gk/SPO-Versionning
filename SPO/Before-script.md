@@ -12,10 +12,10 @@ Avant d'exécuter le script `SPO-Versionning.ps1`, vous devez :
     Import-Module PnP.PowerShell
     ```
 
-3. **Se connecter au site SharePoint** à l'URL suivante ( en remplaçant tenant or le nom de votre tenat ):
+3. **Avant de vous connecter au site SharePoint, vous devez enregistrer une application Azure AD**. Pour ce faire, suivez les instructions détaillées ici :
+    [Lire la documentation pour l'enregistrement d'une application](https://pnp.github.io/powershell/articles/registerapplication.html)
+
+4. **Se connecter au site SharePoint** à l'URL suivante ( en remplaçant tenant par le nom de votre tenant ):
     ```
     https://tenant-admin.sharepoint.com
     ```
-
-4. **Avant de vous connecter au site SharePoint, vous devez enregistrer une application Azure AD**. Pour ce faire, suivez les instructions détaillées ici :
-    [Lire la documentation pour l'enregistrement d'une application](https://pnp.github.io/powershell/articles/registerapplication.html)
