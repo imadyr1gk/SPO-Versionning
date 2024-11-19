@@ -1,0 +1,7 @@
+#Avant d'éxécuter le script SPO-Versionning.ps1,  installer le module PnP.Powershell et se connecter au site https://tenant-admin.sharepoint.com
+
+Install-Module PnP.PowerShell -Scope CurrentUser
+
+Import-Module PnP.PowerShell
+
+#Avant de se connecter au site Sharepoint il faut enregistrer une application comme suit : https://pnp.github.io/powershell/articles/registerapplication.html
