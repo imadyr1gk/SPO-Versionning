@@ -17,5 +17,5 @@ Avant d'exécuter le script `SPO-Versionning.ps1`, vous devez :
 
 4. **Se connecter au site SharePoint** à l'URL suivante ( en remplaçant tenant par le nom de votre tenant et en ajoutant le clientID de l'application enregistré):
     ```powershell
-    Connect-PnPOnline -Url "https://tenat-admin.sharepoint.com" -Interactive -ClientId "xxxxxxx-xxxxxx-xxxxxxx"
+    Connect-PnPOnline -Url "https://tenant-admin.sharepoint.com" -Interactive -ClientId "xxxxxxx-xxxxxx-xxxxxxx"
     ```
