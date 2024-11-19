@@ -4,7 +4,6 @@ Install-Module PnP.PowerShell -Scope CurrentUser
 
 Import-Module PnP.PowerShell
 
-# Avant de se connecter au site SharePoint, il faut enregistrer une application comme suit : [Linkedin](https://fr.linkedin.com/in/imad-fikara-830ba21b6)
-
+# Avant de se connecter au site SharePoint, il faut enregistrer une application comme suit : 
 
 [Lire la documentation pour l'enregistrement d'une application](https://pnp.github.io/powershell/articles/registerapplication.html)
