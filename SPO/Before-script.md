@@ -1,6 +1,6 @@
 # Instructions d'installation et de connexion
 
-Avant d'exécuter le script `SPO-Versionning.ps1`, vous devez :
+Avant d'exécuter le script `PnP-Versionning.ps1`, vous devez :
 
 1. **Installer le module PnP.PowerShell** en utilisant la commande suivante :
     ```powershell
